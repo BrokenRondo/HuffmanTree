@@ -1,0 +1,17 @@
+﻿  HuffmanTree.cpp
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(230): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(258): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(294): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(349): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio projects\source\repos\huffmantree\huffmantree\huffmantree.cpp(387): warning C4018: “<”: 有符号/无符号不匹配
+  源.cpp
+  正在生成代码...
+  HuffmanTree.vcxproj -> E:\Visual Studio Projects\source\repos\HuffmanTree\Debug\HuffmanTree.exe
